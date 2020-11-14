@@ -1,10 +1,10 @@
 # {Reprograma} Projeto semana 14 : CRUD - DB - Backend
 
 ## Métodos HTTP utilizados:
-GET - Busca dados
-POST - Cria novo contato
-PUT - Atualiza contato
-DELETE - Deleta um registro
+- GET - Busca dados
+- POST - Cria novo contato
+- PUT - Atualiza contato
+- DELETE - Deleta um registro
 
 
 ### Essa API deve ter as seguintes rotas:
