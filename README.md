@@ -1,32 +1,5 @@
 # Atividade semana 14
 
-## **Projeto em Aula**
-
-Criar uma API Agenda para reunir contatos do nosso usuário.
-
-Criar representação visual da sua arquitetura.
-
-### Dados para Collection
-
-- id: autogerado e obrigatório
-- nome: texto e obrigatório
-- celular: texto e obrigatório
-- dataNascimento: data e obrigatório
-- fotoPerfil: texto e não obrigatório
-
-### API deve retornar seguinte JSON:
-
-```jsx
-[
-	{
-		"_id": "5fa6128cb3afb1104017dd1a",
-		"nome": "Ana lu",
-		"celular": "912345678",
-		"dataNascimento": "1996-10-10T02:00:00.000Z",
-		"fotoPerfil": "https://linkdafoto.com.br"
-	}
-]
-```
 
 ### Essa API deve ter as seguintes rotas:
 
